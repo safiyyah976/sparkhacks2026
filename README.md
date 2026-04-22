@@ -5,6 +5,8 @@
 
 Built in 48 hours at UIC's SparkHacks 2026 — connecting students, organizations, and sponsors all in one place.
 
+<img width="1440" height="900" alt="LoopedIn Main Page" src="https://github.com/user-attachments/assets/0712ba86-9e3b-4c28-a03a-53f9dc02814e" />
+
 Finding clubs at a big university shouldn't be a guessing game, and securing sponsors for your org shouldn't depend on who you know. LoopedIn was born out of our own experiences as students joining and leading campus organizations at UIC, where we noticed two recurring problems: students struggle to discover clubs that match their interests, and student organizations struggle to connect with sponsors and vendors for their events.
 
 LoopedIn is a centralized web platform that solves both. Students can browse and save clubs they love, organizations can showcase what they need, and sponsors can discover orgs that align with their interests — all from a single hub!
@@ -43,24 +45,7 @@ Responsive Two-Panel UI — Discover panel and personal dashboard live side by s
 
 ## Project Structure
 
-loopedin/
-├── public/
-│   ├── images/              # Static image assets
-│   ├── background2.png      # App background image
-│   └── vite.svg
-├── src/
-│   ├── assets/              # Additional static assets
-│   ├── components/          # Reusable React components
-│   ├── App.jsx              # Main app logic: search, filtering, UI rendering
-│   ├── App.css              # Global styles and responsive layout
-│   ├── clubs.json           # Seed dataset for demo clubs
-│   ├── requests.json        # Club event/vendor request data
-│   ├── vendors.json         # Vendor/sponsor seed data
-│   ├── index.css            # Base styles
-│   └── main.jsx             # React entry point
-├── index.html
-├── vite.config.js
-└── README.md
+<img width="585" height="366" alt="Project Structure - LoopedIn" src="https://github.com/user-attachments/assets/c30c52fe-e60b-47ac-ab1f-6c761ed9d9bd" />
 
 - App.js – main app logic, search, filtering, and UI rendering.
 - clubs.json – seed dataset for demo clubs.
