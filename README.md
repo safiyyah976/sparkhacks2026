@@ -1,9 +1,12 @@
 
 # LoopedIn
 
-# Find clubs to get involved with and discover vendors to collab with.
+# Campus Club Discovery & Sponsor Connection Platform
 
-LoopedIn connects students with student-run organizations on campus and allows organizations to connect with vendors for their events. Users can search, filter by tags, and "heart" their favorite clubs to pin them to their personal dashboard.
+# Built in 48 hours at UIC's SparkHacks 2026 — connecting students, organizations, and sponsors all in one place.
+
+Finding clubs at a big university shouldn't be a guessing game, and securing sponsors for your org shouldn't depend on who you know. LoopedIn was born out of our own experiences as students joining and leading campus organizations at UIC, where we noticed two recurring problems: students struggle to discover clubs that match their interests, and student organizations struggle to connect with sponsors and vendors for their events.
+LoopedIn is a centralized web platform that solves both. Students can browse and save clubs they love, organizations can showcase what they need, and sponsors can discover orgs that align with their interests — all from a single hub!
 
 # Features
 
