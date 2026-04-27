@@ -26,6 +26,7 @@ Responsive Two-Panel UI — Discover panel and personal dashboard live side by s
 - 🔍 Discover panel: explore clubs by tags, search, or themes.
 - Vendor listings: see club requests and potential collaborations.
 - Register a new club locally via the modal form.
+- [▶ Watch the Demo](https://www.youtube.com/watch?v=Un2o6Dxc6Vo)
 
 ## Installation
 
